@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tembo-io-mcp-server-tembo-badge.png)](https://mseep.ai/app/tembo-io-mcp-server-tembo)
+
 <h1 align="center">Tembo MCP Server</h1>
 
 <p align="center">An MCP server for the <a href="https://cloud.tembo.io">Tembo Cloud</a> platform API</p>
